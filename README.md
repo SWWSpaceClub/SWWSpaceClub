@@ -1,4 +1,4 @@
-- 👋 Hi, we’re @SWWSpaceClub, the School Without Walls High School Space Club in Washington, DC!
+- 👋 Hi, we’re [@SWWSpaceClub](https://github.com/SWWSpaceClub), the School Without Walls High School Space Club in Washington, DC!
 - 👀 We’re interested in space exploration and rocketry.
 - 🌱 We’re currently learning how to build a 1,000 cubic-centimeter satellite in the Massachusetts Institute of Technology Beaver Works Summer Institute’s 2024 Build a CubeSat Challenge.
 - 💞️ We’re looking to collaborate on projects in space and rocketry.
